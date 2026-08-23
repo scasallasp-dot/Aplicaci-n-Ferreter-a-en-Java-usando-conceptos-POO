@@ -1,0 +1,19 @@
+Hola!!
+Bienvenido a Sistema de Administración de Ferretería la Solución.
+Para poder ingresar al sistema y ver funcionalidad del sistema en la ventana Login 
+ingresar los siguientes datos:
+
+Usuario: jperis
+Contraseña: clave123
+
+Sino puedes ingresar, consulta la base de datos en la tabla de usuarios, donde encontraras
+mas usuarios y contraseñas asociadas a cada usuario.
+
+Disfruta del sistema!!
+
+Este trabajo fue realizado por estudiantes de la Universidad Nacional de Colombia®
+
+Steven Andres Guerrero Zuñiga CC: 1052386584
+Samuel Felipe Casallas Palomo CC: 1014268700
+
+
