@@ -1,5 +1,10 @@
 Este programa ofrece un sistema integral para la gestión de una ferretería, permitiendo administrar la información del negocio mediante un sistema CRUD (Crear, Leer, Actualizar y Eliminar) eficiente y fácil de usar.
 
+La Base de datos Creada en MySQL se distribuye de la siguiente forma:
+
+<img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/2d42b0c7-94b9-4a9a-9dfc-76c5663b97f0" />
+
+
 1) Una vez conectado a una base de datos se hace un ingreso al sistema con usuario y contraseña
 
 <img width="240" height="350" alt="image" src="https://github.com/user-attachments/assets/2442952d-456d-4466-b1e8-9c9519cfafb7" />
