@@ -1,8 +1,13 @@
-En este Programa encontraras un sistema que ayuda a un negocio de ferretería a manejar inventarios, ventas y clientes del negocio.
-<h1>1)</h1> Una vez conectado a una base de datos se hace un ingreso al sistema con usuario y contraseña
-<img width="497" height="712" alt="image" src="https://github.com/user-attachments/assets/2442952d-456d-4466-b1e8-9c9519cfafb7" />
+Este programa ofrece un sistema integral para la gestión de una ferretería, permitiendo administrar la información del negocio mediante un sistema CRUD (Crear, Leer, Actualizar y Eliminar) eficiente y fácil de usar.
+
+1) Una vez conectado a una base de datos se hace un ingreso al sistema con usuario y contraseña
+
+<img width="240" height="350" alt="image" src="https://github.com/user-attachments/assets/2442952d-456d-4466-b1e8-9c9519cfafb7" />
 
 2) luego se puede trabajar en cada uno de los módulos del sistema
-<img width="1023" height="501" alt="image" src="https://github.com/user-attachments/assets/036286f8-b090-4843-8e02-64a8413aa1b5" />
 
-Espero que les sirva!
+<img width="505" height="250" alt="image" src="https://github.com/user-attachments/assets/036286f8-b090-4843-8e02-64a8413aa1b5" />
+
+3) Se puede navergar por cada uno de los modulos del sistema y encontrar una tabla de la base de datos correspondientes, y hacer el CRUD en cada módulo del sistema
+   
+<img width="930" height="390" alt="image" src="https://github.com/user-attachments/assets/4554e377-9850-4f49-af38-2ff9abdcc0e2" />
